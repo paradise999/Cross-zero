@@ -1,0 +1,19 @@
+D:\Users\parad\Desktop\Учёба\Проект\Крестики нолики\Крестики нолики\bin\Debug\Крестики нолики.exe.config
+D:\Users\parad\Desktop\Учёба\Проект\Крестики нолики\Крестики нолики\obj\Debug\Крестики нолики.csprojResolveAssemblyReference.cache
+D:\Users\parad\Desktop\Учёба\Проект\Крестики нолики\Крестики нолики\obj\Debug\креститки_нолики.Form1.resources
+D:\Users\parad\Desktop\Учёба\Проект\Крестики нолики\Крестики нолики\obj\Debug\Крестики_нолики.Properties.Resources.resources
+D:\Users\parad\Desktop\Учёба\Проект\Крестики нолики\Крестики нолики\obj\Debug\Крестики нолики.csproj.GenerateResource.Cache
+D:\Users\parad\Desktop\Учёба\Проект\Крестики нолики\Крестики нолики\bin\Debug\Крестики нолики.exe
+D:\Users\parad\Desktop\Учёба\Проект\Крестики нолики\Крестики нолики\bin\Debug\Крестики нолики.pdb
+D:\Users\parad\Desktop\Учёба\Проект\Крестики нолики\Крестики нолики\obj\Debug\Крестики нолики.exe
+D:\Users\parad\Desktop\Учёба\Проект\Крестики нолики\Крестики нолики\obj\Debug\Крестики нолики.pdb
+G:\Document\САПКІЗ\Проект\Крестики нолики\Крестики нолики\bin\Debug\Крестики нолики.exe.config
+G:\Document\САПКІЗ\Проект\Крестики нолики\Крестики нолики\obj\Debug\Крестики нолики.exe
+G:\Document\САПКІЗ\Проект\Крестики нолики\Крестики нолики\obj\Debug\Крестики нолики.pdb
+G:\Document\САПКІЗ\Проект\Крестики нолики\Крестики нолики\obj\Debug\Крестики нолики.csprojResolveAssemblyReference.cache
+G:\Document\САПКІЗ\Проект\Крестики нолики\Крестики нолики\obj\Debug\креститки_нолики.Form1.resources
+G:\Document\САПКІЗ\Проект\Крестики нолики\Крестики нолики\obj\Debug\Крестики_нолики.Properties.Resources.resources
+G:\Document\САПКІЗ\Проект\Крестики нолики\Крестики нолики\obj\Debug\Крестики нолики.csproj.GenerateResource.Cache
+G:\Document\САПКІЗ\Проект\Крестики нолики\Крестики нолики\bin\Debug\Крестики нолики.exe
+G:\Document\САПКІЗ\Проект\Крестики нолики\Крестики нолики\bin\Debug\Крестики нолики.pdb
+D:\Users\parad\Desktop\Учёба\Проект\Крестики нолики\Крестики нолики\obj\Debug\Крестики нолики.csproj.CoreCompileInputs.cache
